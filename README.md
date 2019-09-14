@@ -7,5 +7,5 @@ demoflex1
 <img src="https://i.ibb.co/S3231qN/3.png">        
  DemoFlex4
 <img src="https://i.ibb.co/MBQ848t/4.png">
-Sau khi thu nho
+kich thuoc 600 thi hien thi nhu ben duoi:
 <img src="https://i.ibb.co/94GbZpJ/5.png">
